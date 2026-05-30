@@ -2,6 +2,8 @@
 
 > **面向考研备考的三段式刷题限时器** · A three-phase exam-practice timer for desktop
 
+> ⚠️ **声明**：本项目由 AI 辅助生成（WorkBuddy + AI），代码和设计由 AI 根据需求描述自动完成。
+
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![React](https://img.shields.io/badge/React-18-61dafb.svg)](https://react.dev)
 [![Tauri](https://img.shields.io/badge/Tauri-2.0-ffc131.svg)](https://tauri.app)
@@ -118,10 +120,6 @@ timetips/
 - [ ] 错题本 / 复盘视图
 - [ ] 题目标签 / 难度统计
 - [ ] 自动更新
-
-## 声明
-
-> 本项目由 AI 辅助生成（WorkBuddy + AI），代码和设计由 AI 根据需求描述自动完成。
 
 ## 贡献
 
