@@ -119,9 +119,13 @@ timetips/
 - [ ] 题目标签 / 难度统计
 - [ ] 自动更新
 
+## 声明
+
+> 本项目由 AI 辅助生成（WorkBuddy + AI），代码和设计由 AI 根据需求描述自动完成。
+
 ## 贡献
 
-欢迎 PR 和 Issue！  
+欢迎 PR 和 Issue！
 开源协议：[MIT](LICENSE)
 
 ---
